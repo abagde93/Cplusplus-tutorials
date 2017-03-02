@@ -1,3 +1,2 @@
-﻿  data_types.cpp
-  CH2.vcxproj -> c:\users\ajinkya\documents\visual studio 2015\Projects\CH2\Debug\CH2.exe
-  CH2.vcxproj -> c:\users\ajinkya\documents\visual studio 2015\Projects\CH2\Debug\CH2.pdb (Full PDB)
+﻿prime.obj : error LNK2005: _main already defined in data_types.obj
+C:\Users\Ajinkya\Documents\Visual Studio 2015\Projects\CH2\Debug\CH2.exe : fatal error LNK1169: one or more multiply defined symbols found
